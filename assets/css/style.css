@@ -3795,7 +3795,7 @@ img {
 }
 
 .quote-section .right-col, .quote-section-s2 .right-col {
-  background: url("../images/quote-bg.jpg") center center/cover no-repeat local;
+  background: url("../images/quote_generator.jpeg") center center/cover no-repeat local;
   position: relative;
 }
 
@@ -4436,7 +4436,7 @@ img {
 #2.4	quote-section-s2
 --------------------------------------------------------------*/
 .quote-section-s2 .right-col {
-  background: url("../images/quote-bg-s2.jpg") center center/cover no-repeat local;
+  background: url("../images/quote_generator.jpeg") center center/cover no-repeat local;
 }
 
 /*--------------------------------------------------------------
